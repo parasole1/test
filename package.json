@@ -47,12 +47,12 @@
     "compression": "1.7.4",
     "cookie-parser": "1.4.5",
     "cors": "2.8.5",
-    "express": "4.17.1",          // Vulnerable: CVE-2022-24999 (pre-2025)
+    "express": "4.17.1",
     "express-jwt": "6.0.0",
     "formidable": "1.2.2",
-    "helmet": "3.23.3",          // Vulnerable: CVE-2021-33502 (pre-2025)
-    "jsonwebtoken": "8.5.1",     // Vulnerable: CVE-2022-23529 (pre-2025)
-    "lodash": "4.17.20",         // Vulnerable: CVE-2021-23337 (pre-2025)
+    "helmet": "3.23.3",
+    "jsonwebtoken": "8.5.1",
+    "lodash": "4.17.20",
     "mongoose": "5.12.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
